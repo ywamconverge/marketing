@@ -4,7 +4,7 @@
 
 Analysis of 612 top-performing Google Ads from [WordStream](https://www.wordstream.com/blog/ws/2017/06/06/best-ads).
 
-1.  Top Performing Words
+### Top Performing Words
 
 Your
 
@@ -27,7 +27,7 @@ Shipping
 You
 
 
-2.  Top Performing Calls to Action
+### Top Performing Calls to Action
  
 Get
  
@@ -48,7 +48,7 @@ Discover
 Click
 
 
-3.  Sentiment
+### Sentiment
 
 Breakdown of 612 Google Ads
 
@@ -59,12 +59,12 @@ Breakdown of 612 Google Ads
 2% negative sentiment
 
 
-4. Lexical Diversity
+### Lexical Diversity
 
 Top advertisers tend to repeat just 2 words per ad.
 
 
-5. Most Common Punctuation Marks
+### Most Common Punctuation Marks
 
 Punctuations in Branded Text Ads:
 
@@ -92,28 +92,28 @@ Percentile: 9%
 Dollar Sign: 8%
 
 
-6. Dynamic Keyword Insertion (DKI)
+### Dynamic Keyword Insertion (DKI)
 
 10% of non-branded ads use DKI
 
 6% of branded ads use DKI
 
 
-7.  Trademarks & Other Brand Signs
+### Trademarks & Other Brand Signs
 
 6% of non-branded ads use trademarks
 
 28% of branded ads use trademarks
 
 
-8.  Use of Numbers
+### Use of Numbers
 
 37% of non-branded ads use numbers
 
 40% of branded ads use numbers
 
 
-9. Average Reading Level
+### Average Reading Level
 
 9th grade level
 
