@@ -7,44 +7,27 @@ Analysis of 612 top-performing Google Ads from [WordStream](https://www.wordstre
 ### Top Performing Words
 
 Your
-
 Free
-
 Now
-
 Get
-
 Online
-
 Our
-
 Save
-
 Best
-
 Shipping
-
 You
 
 
 ### Top Performing Calls to Action
  
 Get
- 
 Buy
- 
 Shop
- 
 Try
- 
 Learn
- 
 Build
-
 Sign Up
-
 Discover
-
 Click
 
 
