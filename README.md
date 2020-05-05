@@ -20,14 +20,14 @@ You
 
 ### Top Performing Calls to Action
  
-Get
-Buy
-Shop
-Try
-Learn
-Build
-Sign Up
-Discover
+Get  
+Buy  
+Shop  
+Try  
+Learn  
+Build  
+Sign Up  
+Discover  
 Click
 
 
@@ -35,10 +35,8 @@ Click
 
 Breakdown of 612 Google Ads
 
-45% positive sentiment
-
-53% neutral sentiment
-
+45% positive sentiment  
+53% neutral sentiment  
 2% negative sentiment
 
 
@@ -51,48 +49,37 @@ Top advertisers tend to repeat just 2 words per ad.
 
 Punctuations in Branded Text Ads:
 
-Exclamation: 48%
-
-Commas: 38%
-
-Question Mark: 2%
-
-Percentile: 8%
-
-Dollar Sign: 11%
+Exclamation: 48%  
+Commas: 38%  
+Question Mark: 2%  
+Percentile: 8%  
+Dollar Sign: 11%  
 
 
 Punctuations in Non-Branded Text Ads:
 
-Exclamation: 42%
-
-Commas: 25%
-
-Question Mark: 11%
-
-Percentile: 9%
-
+Exclamation: 42%  
+Commas: 25%  
+Question Mark: 11%  
+Percentile: 9%  
 Dollar Sign: 8%
 
 
 ### Dynamic Keyword Insertion (DKI)
 
-10% of non-branded ads use DKI
-
+10% of non-branded ads use DKI  
 6% of branded ads use DKI
 
 
 ### Trademarks & Other Brand Signs
 
-6% of non-branded ads use trademarks
-
+6% of non-branded ads use trademarks  
 28% of branded ads use trademarks
 
 
 ### Use of Numbers
 
-37% of non-branded ads use numbers
-
+37% of non-branded ads use numbers  
 40% of branded ads use numbers
 
 
