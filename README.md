@@ -92,3 +92,12 @@ Readability checkers:
 [Hemingway](http://www.hemingwayapp.com/)
 
 [Readability Test](https://www.online-utility.org/english/readability_test_and_improve.jsp)
+
+## Keyword Matches
+
+| Match | Symbol | Example  | Definition | Example Searches |
+| ------------- | ------------- | -------------  | ------------- | ------------- |
+| Broad | none | women's hats | Close variations of the keyword, related searches, other relevant variations.  | buy ladies hats, women's clothing, women's scarves |
+| Modified Broad | +keyword | +women's +hats | Must match words designated with a + sign (or close variations of the words) in any order.  | women’s scarves and hats, winter hats for women, hats for stylish ladies |
+| Phrase | "keyword" | "women's hats" | Matches of the phrase (or close variations of the phrase, including terms with the same meaning). | blue women’s hats, hats for women, ladies hats |
+| Exact | [keyword] | [women's hats] | Exact keyword matches or close variations of the terms with the same meaning. | women’s hats, ladies hats, hats women |
